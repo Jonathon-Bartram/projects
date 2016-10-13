@@ -1,0 +1,19 @@
+header {font-family: 'Gidugu', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Vollkorn', serif; }
+*{
+	background-color: 00f8ff
+}
+.container{
+	width:55%;
+	margin: auto;
+	background-color: rgba(46,66,41,0.8);
+}
+nav li {
+	display: inline-block;
+	border: 2px;
+	border-color: blue;
+	border-style: double;
+	border-radius: 5px;
+	font-family: 'Bangers', cursive;
+}
